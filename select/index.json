@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Midnight",
+  "base_artist": "大森元貴",
+  "createdAt": "2025-12-21T22:57:04.245027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Rain",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Midnight_Rain_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 2 (Midnight In Sodom)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Satanic_Slumber_Party_Part_2_(Midnight_In_Sodom)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody's Talkin' (From \"Midnight Cowboy\")",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/03_Everybody's_Talkin'_(From__Midnight_Cowboy_)_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Only Midnight",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/04_It's_Only_Midnight_Locash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midnight Crisis",
+      "artist": "Jordan Davis feat. Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/05_Midnight_Crisis_Jordan_Davis_feat._Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Crisis",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/06_Midnight_Crisis_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Daydream (Live)",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/07_Midnight_Daydream_(Live)_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Midnight Girl / Sunset Town",
+      "artist": "Sweethearts of the Rodeo",
+      "has_synced": true,
+      "path": "select/08_Midnight_Girl___Sunset_Town_Sweethearts_of_the_Rodeo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midnight In Montgomery",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/09_Midnight_In_Montgomery_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Midnight Rider",
+      "artist": "The Allman Brothers Band",
+      "has_synced": true,
+      "path": "select/10_Midnight_Rider_The_Allman_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Midnight Rider",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/11_Midnight_Rider_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midnight Rider",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/12_Midnight_Rider_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Midnight Rider",
+      "artist": "The Allman Brothers Band",
+      "has_synced": true,
+      "path": "select/13_Midnight_Rider_The_Allman_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Midnight Rider's Prayer",
+      "artist": "Brothers Osborne",
+      "has_synced": false,
+      "path": "select/14_Midnight_Rider's_Prayer_Brothers_Osborne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_大森元貴.txt"
+    }
+  ]
+}
